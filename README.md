@@ -1,2 +1,2 @@
-#Clementine.js Beginner 
-- Tutorial: http://www.clementinejs.com/tutorials/tutorial-beginner.html
+#Clementine.js Angular Tutorial
+- Tutorial: http://www.clementinejs.com/tutorials/tutorial-angular.html
